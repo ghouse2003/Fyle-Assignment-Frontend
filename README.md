@@ -27,6 +27,8 @@ Experts Growth
 This section highlights our company’s growth metrics with four cards in a horizontal layout.
 
 Inorder to view the website: Click on the below links;
+1. # https://ghouse2003.github.io/Fyle-Assignment-Frontend/
+2. # https://fyleassignment123.netlify.app/
 
 
 
